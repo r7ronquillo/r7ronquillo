@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **r7ronquillo/r7ronquillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# PROJECTS
+
+## PROJECT INSOMNIA
+[![PROJECT INSOMNIA](https://img.youtube.com/vi/MPlypltx4Mg/0.jpg)](https://www.youtube.com/playlist?list=PLidDB4IqqyBtvfbA1Y0748SR8-0CcNqQ3)
