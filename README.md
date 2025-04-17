@@ -1,8 +1,10 @@
-👋 Hi, I'm Ruben!
-🧠 Learning **Software Development** and **Video Game Programming**. 
-🖥️ Programming Languages: C, C++, C#, Python, PHP, and Java.
-🕹️ Game Related: Unity (C#), SDL (C/C++), and Pygame (Python).
-🧭 Exploring AI, Graphics Programming, and Game Development Fundamentals.
+👋 Hi, I'm Ruben! <br>
+🧠 Learning **Software Development** and **Video Game Programming**. <br>
+🖥️ **Programming Languages:** C, C++, C#, Python, PHP, and Java. <br>
+🕹️ **Game Related:** Unity (C#), SDL (C/C++), and Pygame (Python). <br>
+🧭 Exploring AI, Graphics Programming, and Game Development Fundamentals. <br>
+
+<br>
 
 # PROJECTS
 
